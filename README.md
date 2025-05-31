@@ -13,6 +13,7 @@ https://flask-book-library-render.onrender.com
   - Read, add, edit, and delete books.
   - Read, add, edit, and delete customers.
   - Read, add and delete loans.
+  - (WIP) Wishlist feature – allows users to create a wishlist of books they want to borrow or read in the future.
 
 - **Search Functionality:**
   - Easily search for books by name.
@@ -21,6 +22,7 @@ https://flask-book-library-render.onrender.com
 
 - **Responsive Design:**
   - Provides a seamless user experience across various devices.
+    
 
 ## 🛠️ Technologies Used 🛠️
 
